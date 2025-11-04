@@ -1,0 +1,94 @@
+1:"$Sreact.fragment"
+2:I[88187,["/_next/static/chunks/945b077709d3d96f.js","/_next/static/chunks/b1a9e824a7e2be78.js","/_next/static/chunks/3202a56113011fa8.js"],"default"]
+3:I[12384,["/_next/static/chunks/945b077709d3d96f.js","/_next/static/chunks/b1a9e824a7e2be78.js","/_next/static/chunks/3202a56113011fa8.js"],"default"]
+4:I[77729,["/_next/static/chunks/945b077709d3d96f.js","/_next/static/chunks/b1a9e824a7e2be78.js","/_next/static/chunks/3202a56113011fa8.js"],"default"]
+5:I[30270,["/_next/static/chunks/945b077709d3d96f.js","/_next/static/chunks/b1a9e824a7e2be78.js","/_next/static/chunks/3202a56113011fa8.js"],"default"]
+6:I[70691,["/_next/static/chunks/5da1b868cf5e5f50.js","/_next/static/chunks/37beba5db72cfcb5.js"],"default"]
+7:I[97554,["/_next/static/chunks/945b077709d3d96f.js","/_next/static/chunks/b1a9e824a7e2be78.js","/_next/static/chunks/3202a56113011fa8.js","/_next/static/chunks/4c00b678c1b22ecc.js"],"default"]
+8:I[67320,["/_next/static/chunks/5da1b868cf5e5f50.js","/_next/static/chunks/37beba5db72cfcb5.js"],"default"]
+9:I[66980,["/_next/static/chunks/945b077709d3d96f.js","/_next/static/chunks/b1a9e824a7e2be78.js","/_next/static/chunks/3202a56113011fa8.js"],"default"]
+a:I[26591,["/_next/static/chunks/945b077709d3d96f.js","/_next/static/chunks/b1a9e824a7e2be78.js","/_next/static/chunks/3202a56113011fa8.js","/_next/static/chunks/72a61afd84598408.js"],"default"]
+b:I[27382,["/_next/static/chunks/945b077709d3d96f.js","/_next/static/chunks/b1a9e824a7e2be78.js","/_next/static/chunks/3202a56113011fa8.js","/_next/static/chunks/33809d7e6a68c2ae.js"],"default"]
+d:I[89929,["/_next/static/chunks/5da1b868cf5e5f50.js","/_next/static/chunks/37beba5db72cfcb5.js"],"OutletBoundary"]
+e:"$Sreact.suspense"
+10:I[89929,["/_next/static/chunks/5da1b868cf5e5f50.js","/_next/static/chunks/37beba5db72cfcb5.js"],"ViewportBoundary"]
+12:I[89929,["/_next/static/chunks/5da1b868cf5e5f50.js","/_next/static/chunks/37beba5db72cfcb5.js"],"MetadataBoundary"]
+14:I[27049,[],"default"]
+:HL["/_next/static/chunks/cfe20472333721eb.css","style"]
+0:{"P":null,"b":"wAKe0KrCVN0Dbo_tYx_WQ","c":["","posts","2021-11-25-testing-strategy",""],"q":"","i":false,"f":[[["",{"children":["posts",{"children":[["slug","2021-11-25-testing-strategy","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/cfe20472333721eb.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/945b077709d3d96f.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/b1a9e824a7e2be78.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/_next/static/chunks/3202a56113011fa8.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","$L4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{"parallelRouterKey":"children","error":"$7","errorStyles":[],"errorScripts":[["$","script","script-0",{"src":"/_next/static/chunks/4c00b678c1b22ecc.js","async":true}]],"template":["$","$L8",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","$L9",null,{}]]}]]}]}]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L6",null,{"parallelRouterKey":"children","error":"$a","errorStyles":[],"errorScripts":[["$","script","script-0",{"src":"/_next/static/chunks/72a61afd84598408.js","async":true}]],"template":["$","$L8",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L6",null,{"parallelRouterKey":"children","error":"$b","errorStyles":[],"errorScripts":[["$","script","script-0",{"src":"/_next/static/chunks/33809d7e6a68c2ae.js","async":true}]],"template":["$","$L8",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$Lc",[["$","script","script-0",{"src":"/_next/static/chunks/c8d5c41d1d5e5910.js","async":true,"nonce":"$undefined"}]],["$","$Ld",null,{"children":["$","$e",null,{"name":"Next.MetadataOutlet","children":"$@f"}]}]]}],{},null,false,false]},null,false,false]},null,false,false]},null,false,false],["$","$1","h",{"children":[null,["$","$L10",null,{"children":"$@11"}],["$","div",null,{"hidden":true,"children":["$","$L12",null,{"children":["$","$e",null,{"name":"Next.Metadata","children":"$@13"}]}]}],null]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:I[73428,["/_next/static/chunks/945b077709d3d96f.js","/_next/static/chunks/b1a9e824a7e2be78.js","/_next/static/chunks/3202a56113011fa8.js","/_next/static/chunks/c8d5c41d1d5e5910.js"],"default"]
+16:T10ae,<h1>Testing Strategy: Unit, Integration, and E2E Tests</h1>
+<p>Quality software requires quality testing. The test pyramid shows where to focus effort for maximum coverage with minimal maintenance burden.</p>
+<p>Treat tests as a living specification. When they describe the desired behavior clearly, newcomers understand features faster and regressions surface before they hit production. Balance speed, reliability, and cost by investing in the right mix of test types.</p>
+<h2>Unit Tests with Jest</h2>
+<pre><code class="language-javascript">describe('UserService', () => {
+  let service: UserService;
+
+  beforeEach(() => {
+    service = new UserService();
+  });
+
+  test('should create user with valid data', () => {
+    const user = service.createUser({ name: 'John', email: 'john@example.com' });
+    expect(user.id).toBeDefined();
+    expect(user.name).toBe('John');
+  });
+
+  test('should throw error for invalid email', () => {
+    expect(() => {
+      service.createUser({ name: 'John', email: 'invalid' });
+    }).toThrow('Invalid email');
+  });
+});
+</code></pre>
+<h2>Integration Tests</h2>
+<pre><code class="language-java">@SpringBootTest
+public class UserServiceIntegrationTest {
+  @Autowired
+  private UserService userService;
+
+  @Autowired
+  private UserRepository repository;
+
+  @Test
+  public void testCreateAndRetrieveUser() {
+    User user = userService.createUser(new CreateUserRequest("John", "john@example.com"));
+    assertNotNull(user.getId());
+
+    User retrieved = repository.findById(user.getId()).orElseThrow();
+    assertEquals("John", retrieved.getName());
+  }
+}
+</code></pre>
+<h2>E2E Tests with Selenium</h2>
+<pre><code class="language-java">public class UserJourneyTest {
+  @Test
+  public void userRegistrationFlow() {
+    WebDriver driver = new ChromeDriver();
+    driver.get("http://localhost:3000/register");
+
+    driver.findElement(By.id("name")).sendKeys("John");
+    driver.findElement(By.id("email")).sendKeys("john@example.com");
+    driver.findElement(By.id("submit")).click();
+
+    String message = driver.findElement(By.className("success")).getText();
+    assertEquals("Registration successful!", message);
+
+    driver.quit();
+  }
+}
+</code></pre>
+<p>Testing pyramid: 70% unit tests, 20% integration tests, 10% E2E tests for optimal ROI.</p>
+<h2>Contract and Consumer-Driven Tests</h2>
+<p>When services communicate via APIs, contract tests keep them honest. Tools like Pact let consumers define expectations that providers must satisfy in CI. This reduces the need for brittle end-to-end tests while still catching breaking changes before deployment. Pair contract tests with schema validation to ensure serialization formats stay compatible.</p>
+<h2>Test Data Management and CI Guardrails</h2>
+<p>Unreliable tests usually stem from unmanaged data. Use factories or builders to create deterministic fixtures, reset databases between runs, and stub third-party integrations. In continuous integration, parallelize suites to keep feedback fast, collect flake statistics, and quarantine tests that fail intermittently until the root cause is fixed.</p>
+<p>Finally, treat testing as a cultural practice. Celebrate bug reports caught by automation, include test impacts in pull request templates, and ensure on-call retrospectives document any gaps discovered during incidents. A disciplined testing strategy keeps engineering velocity high without sacrificing confidence.</p>
+<h2>Chaos and Resilience Testing</h2>
+<p>As distributed systems proliferate, include resilience checks in your test portfolio. Inject latency, kill services, and tamper with message queues in controlled environments. Tools like Chaos Mesh or Gremlin reveal how applications behave when dependencies fail. Document learnings in runbooks and adjust fallbacks based on real-world evidence.</p>
+<h2>Exploratory Testing and UX Quality</h2>
+<p>Automation cannot capture every nuance. Schedule exploratory testing sessions where engineers, designers, and product managers simulate real user journeys. Capture observations in shared documents and translate findings into automated tests where possible. Pair this with accessibility audits to ensure users with assistive technologies receive a polished experience.</p>c:["$","$L15",null,{"title":"Testing Strategy: Unit, Integration, and E2E Tests","date":"2021-11-25","author":"Mevlut Mert CIL","category":"QA & Testing","tags":["testing","junit","jest","automation"],"htmlContent":"$16"}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, maximum-scale=5"}]]
+17:I[76819,["/_next/static/chunks/5da1b868cf5e5f50.js","/_next/static/chunks/37beba5db72cfcb5.js"],"IconMark"]
+13:[["$","title","0",{"children":"Mevlut Mert CIL | Full Stack Developer"}],["$","meta","1",{"name":"description","content":"Portfolio of a full-stack developer"}],["$","link","2",{"rel":"icon","href":"/favicon.ico?favicon.0b3bf435.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L17","3",{}]]
+f:null

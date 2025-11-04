@@ -5,7 +5,7 @@ import { styled } from '@mui/material/styles'
 const Wrapper = styled('div')(({ theme }) => ({
   maxWidth: '48rem',
   margin: '0 auto',
-  padding: '5rem 1.5rem',
+  padding: 'clamp(2rem, 8vw, 5rem) clamp(1rem, 4vw, 1.5rem)',
   display: 'flex',
   justifyContent: 'center',
 }))
@@ -17,7 +17,7 @@ const Section = styled('section')(({ theme }) => ({
 }))
 
 const Title = styled('h1')(({ theme }) => ({
-  fontSize: '2.5rem',
+  fontSize: 'clamp(1.75rem, 5vw, 2.5rem)',
   fontWeight: 600,
   marginBottom: '1.5rem',
   color: theme.palette.text.primary,
@@ -26,7 +26,7 @@ const Title = styled('h1')(({ theme }) => ({
 }))
 
 const Subtitle = styled('p')(({ theme }) => ({
-  fontSize: '1.1rem',
+  fontSize: 'clamp(1rem, 2.5vw, 1.1rem)',
   fontWeight: 400,
   color: theme.palette.text.secondary,
   marginBottom: '2rem',

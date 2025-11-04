@@ -1,0 +1,81 @@
+1:"$Sreact.fragment"
+2:I[88187,["/_next/static/chunks/945b077709d3d96f.js","/_next/static/chunks/b1a9e824a7e2be78.js","/_next/static/chunks/3202a56113011fa8.js"],"default"]
+3:I[12384,["/_next/static/chunks/945b077709d3d96f.js","/_next/static/chunks/b1a9e824a7e2be78.js","/_next/static/chunks/3202a56113011fa8.js"],"default"]
+4:I[77729,["/_next/static/chunks/945b077709d3d96f.js","/_next/static/chunks/b1a9e824a7e2be78.js","/_next/static/chunks/3202a56113011fa8.js"],"default"]
+5:I[30270,["/_next/static/chunks/945b077709d3d96f.js","/_next/static/chunks/b1a9e824a7e2be78.js","/_next/static/chunks/3202a56113011fa8.js"],"default"]
+6:I[70691,["/_next/static/chunks/5da1b868cf5e5f50.js","/_next/static/chunks/37beba5db72cfcb5.js"],"default"]
+7:I[97554,["/_next/static/chunks/945b077709d3d96f.js","/_next/static/chunks/b1a9e824a7e2be78.js","/_next/static/chunks/3202a56113011fa8.js","/_next/static/chunks/4c00b678c1b22ecc.js"],"default"]
+8:I[67320,["/_next/static/chunks/5da1b868cf5e5f50.js","/_next/static/chunks/37beba5db72cfcb5.js"],"default"]
+9:I[66980,["/_next/static/chunks/945b077709d3d96f.js","/_next/static/chunks/b1a9e824a7e2be78.js","/_next/static/chunks/3202a56113011fa8.js"],"default"]
+a:I[26591,["/_next/static/chunks/945b077709d3d96f.js","/_next/static/chunks/b1a9e824a7e2be78.js","/_next/static/chunks/3202a56113011fa8.js","/_next/static/chunks/72a61afd84598408.js"],"default"]
+b:I[27382,["/_next/static/chunks/945b077709d3d96f.js","/_next/static/chunks/b1a9e824a7e2be78.js","/_next/static/chunks/3202a56113011fa8.js","/_next/static/chunks/33809d7e6a68c2ae.js"],"default"]
+d:I[89929,["/_next/static/chunks/5da1b868cf5e5f50.js","/_next/static/chunks/37beba5db72cfcb5.js"],"OutletBoundary"]
+e:"$Sreact.suspense"
+10:I[89929,["/_next/static/chunks/5da1b868cf5e5f50.js","/_next/static/chunks/37beba5db72cfcb5.js"],"ViewportBoundary"]
+12:I[89929,["/_next/static/chunks/5da1b868cf5e5f50.js","/_next/static/chunks/37beba5db72cfcb5.js"],"MetadataBoundary"]
+14:I[27049,[],"default"]
+:HL["/_next/static/chunks/cfe20472333721eb.css","style"]
+0:{"P":null,"b":"wAKe0KrCVN0Dbo_tYx_WQ","c":["","posts","2015-03-12-embedded-systems-and-linux-kernels",""],"q":"","i":false,"f":[[["",{"children":["posts",{"children":[["slug","2015-03-12-embedded-systems-and-linux-kernels","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/cfe20472333721eb.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/945b077709d3d96f.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/b1a9e824a7e2be78.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/_next/static/chunks/3202a56113011fa8.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","$L4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{"parallelRouterKey":"children","error":"$7","errorStyles":[],"errorScripts":[["$","script","script-0",{"src":"/_next/static/chunks/4c00b678c1b22ecc.js","async":true}]],"template":["$","$L8",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","$L9",null,{}]]}]]}]}]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L6",null,{"parallelRouterKey":"children","error":"$a","errorStyles":[],"errorScripts":[["$","script","script-0",{"src":"/_next/static/chunks/72a61afd84598408.js","async":true}]],"template":["$","$L8",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L6",null,{"parallelRouterKey":"children","error":"$b","errorStyles":[],"errorScripts":[["$","script","script-0",{"src":"/_next/static/chunks/33809d7e6a68c2ae.js","async":true}]],"template":["$","$L8",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$Lc",[["$","script","script-0",{"src":"/_next/static/chunks/c8d5c41d1d5e5910.js","async":true,"nonce":"$undefined"}]],["$","$Ld",null,{"children":["$","$e",null,{"name":"Next.MetadataOutlet","children":"$@f"}]}]]}],{},null,false,false]},null,false,false]},null,false,false]},null,false,false],["$","$1","h",{"children":[null,["$","$L10",null,{"children":"$@11"}],["$","div",null,{"hidden":true,"children":["$","$L12",null,{"children":["$","$e",null,{"name":"Next.Metadata","children":"$@13"}]}]}],null]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:I[73428,["/_next/static/chunks/945b077709d3d96f.js","/_next/static/chunks/b1a9e824a7e2be78.js","/_next/static/chunks/3202a56113011fa8.js","/_next/static/chunks/c8d5c41d1d5e5910.js"],"default"]
+16:T1340,<h1>Embedded Systems and Linux Kernels: Building Set-Top Box Firmware</h1>
+<p>When you interact with a set-top box while watching television, you're benefiting from years of embedded systems engineering. Today, I want to share some insights from my work on Linux-based embedded systems and the intricacies of kernel-level programming.</p>
+<p>Embedded work rewards meticulousness. We built features in tight loops with hardware engineers, negotiated firmware requirements with product teams, and relied on lab equipment to reproduce elusive timing bugs.</p>
+<h2>The Complexity of Set-Top Box Development</h2>
+<p>Set-top boxes are deceptively complex devices. They need to handle:</p>
+<ul>
+<li><strong>Real-time video streaming</strong> with minimal latency</li>
+<li><strong>Hardware resource management</strong> with limited RAM and CPU</li>
+<li><strong>Multiple simultaneous processes</strong> (UI, networking, decoding)</li>
+<li><strong>Backward compatibility</strong> with legacy systems</li>
+</ul>
+<h2>Kernel C vs. User Space C</h2>
+<p>One of the first lessons in embedded systems is understanding the boundary between kernel space and user space programming.</p>
+<pre><code class="language-c">// User space code - safer, easier debugging
+int main() {
+    FILE* fp = fopen("/proc/cpuinfo", "r");
+    // Can be safely interupted, has virtual memory
+}
+
+// Kernel code - dangerous, but necessary
+static int __init device_driver_init(void) {
+    // Must be careful: single mistake crashes entire system
+    request_irq(IRQ_GPIO, handler, IRQF_SHARED, "gpio_handler", NULL);
+}
+</code></pre>
+<h2>Assembly: When You Need to Go Lower</h2>
+<p>For certain optimizations and hardware-specific operations, assembly becomes necessary:</p>
+<pre><code class="language-asm">; ARM Assembly for context switching
+    PUSH {R0-R12, R14}  ; Save registers
+    LDR R0, =task_stack
+    LDR SP, [R0]        ; Load new task stack pointer
+    POP {R0-R12, PC}    ; Restore and return
+</code></pre>
+<h2>Performance Considerations</h2>
+<p>In embedded systems, every cycle counts. We often optimize:</p>
+<ol>
+<li><strong>Memory footprint</strong> - Stay within device limitations</li>
+<li><strong>CPU cycles</strong> - Real-time constraints can't be violated</li>
+<li><strong>Power consumption</strong> - Important for devices always-on or battery-powered</li>
+</ol>
+<p>The journey through embedded systems taught me that modern high-level languages are luxuries. Sometimes you need the control and efficiency that C and Assembly provide.</p>
+<h2>Key Takeaways</h2>
+<ul>
+<li>Understand your hardware constraints</li>
+<li>Profile before optimizing</li>
+<li>Respect the boundary between kernel and user space</li>
+<li>Assembly is a tool, not a necessity in every project</li>
+</ul>
+<p>The embedded systems work I did at Vestek has fundamentally shaped how I think about resource management and performance optimization in all my subsequent projects.</p>
+<h2>Driver Debugging and Instrumentation</h2>
+<p>Debugging kernel modules is a different discipline. We leaned on <code>printk</code>, tracepoints, and hardware logic analyzers to observe interrupts. Crash dumps (oops logs) were our lifeline—decoding stack traces manually to pinpoint the offending driver. Reproducing bugs sometimes meant scripting infrared remote commands to hit race conditions in the UI thread while streaming HD content.</p>
+<h2>Build Systems and Continuous Integration</h2>
+<p>Our build pipeline stitched together cross-compilers, Yocto layers, and proprietary vendor blobs. Continuous integration ran static analysis (Sparse, Cppcheck), unit tests on emulators, and smoke tests on physical devices flashed overnight. Artifact versioning and reproducible builds were non-negotiable; when regulators requested exact firmware lineage, we could trace every binary back to a commit and toolchain version.</p>
+<p>These lessons translate beyond embedded systems: invest in tooling, keep feedback loops tight, and never underestimate the complexity hidden inside seemingly simple consumer devices.</p>
+<h2>Regulatory Certification and Quality</h2>
+<p>Consumer electronics often face regulatory tests—EMC, safety, emissions—that demand meticulous documentation. We maintained traceability from requirements to test cases, ensuring each firmware change linked back to compliance artifacts. Automated nightly builds produced binaries and release notes auditors could review on demand.</p>
+<h2>Cross-Functional Collaboration</h2>
+<p>Successful firmware depends on tight feedback loops with mechanical, electrical, and product teams. Weekly design reviews surfaced mechanical constraints that affected PCB trace lengths or antenna placement. Product managers provided user research that informed remote-control latency targets. By collaborating across disciplines, we delivered experiences that felt seamless to end users despite the underlying technical complexity.</p>c:["$","$L15",null,{"title":"Embedded Systems and Linux Kernels: Building Set-Top Box Firmware","date":"2015-03-12","author":"Mevlut Mert CIL","category":"Embedded Systems","tags":["linux","kernel","c++","embedded","firmware"],"htmlContent":"$16"}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, maximum-scale=5"}]]
+17:I[76819,["/_next/static/chunks/5da1b868cf5e5f50.js","/_next/static/chunks/37beba5db72cfcb5.js"],"IconMark"]
+13:[["$","title","0",{"children":"Mevlut Mert CIL | Full Stack Developer"}],["$","meta","1",{"name":"description","content":"Portfolio of a full-stack developer"}],["$","link","2",{"rel":"icon","href":"/favicon.ico?favicon.0b3bf435.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L17","3",{}]]
+f:null

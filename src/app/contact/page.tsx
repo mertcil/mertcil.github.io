@@ -22,9 +22,9 @@ const PageContainer = styled('div')(({ theme }) => ({
 const LeftColumn = styled('aside')(({ theme }) => ({
   width: '35%',
   background: theme.palette.background.default,
-  borderRadius: '18px',
+  borderRadius: 'clamp(12px, 3vw, 18px)',
   border: `2px solid ${theme.palette.divider}`,
-  padding: '2.25rem 1.75rem',
+  padding: 'clamp(1.5rem, 3vw, 2.25rem) clamp(1.25rem, 3vw, 1.75rem)',
   display: 'flex',
   flexDirection: 'column',
   gap: '1.5rem',
@@ -44,7 +44,7 @@ const AsideHeader = styled('div')({
 })
 
 const AsideTitle = styled('h2')({
-  fontSize: '1.5rem',
+  fontSize: 'clamp(1.25rem, 4vw, 1.5rem)',
   fontWeight: 700,
   letterSpacing: '-0.5px',
   margin: 0,

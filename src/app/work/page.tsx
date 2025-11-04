@@ -96,13 +96,13 @@ const PageContainer = styled('div')(({ theme }) => ({
   width: '100%',
   display: 'flex',
   flexDirection: 'column',
-  gap: '2.5rem',
-  padding: '3rem 2rem 4rem',
+  gap: 'clamp(1.5rem, 4vw, 2.5rem)',
+  padding: 'clamp(1.5rem, 5vw, 3rem) clamp(1rem, 4vw, 2rem) clamp(2rem, 6vw, 4rem)',
   fontFamily: theme.typography.fontFamily,
   color: theme.palette.text.primary,
   background: theme.palette.background.default,
   boxSizing: 'border-box',
-  borderRadius: '32px',
+  borderRadius: 'clamp(16px, 4vw, 32px)',
 }))
 
 const Header = styled('header')({
@@ -115,14 +115,14 @@ const Header = styled('header')({
 })
 
 const Title = styled('h1')({
-  fontSize: '2.5rem',
+  fontSize: 'clamp(1.75rem, 5vw, 2.5rem)',
   fontWeight: 600,
   letterSpacing: '-1px',
   margin: 0,
 })
 
 const Subtitle = styled('p')(({ theme }) => ({
-  fontSize: '1.05rem',
+  fontSize: 'clamp(0.95rem, 2.5vw, 1.05rem)',
   lineHeight: 1.7,
   margin: 0,
   color: theme.palette.text.secondary,
@@ -130,8 +130,8 @@ const Subtitle = styled('p')(({ theme }) => ({
 
 const ProjectsGrid = styled('div')({
   display: 'grid',
-  gridTemplateColumns: 'repeat(auto-fit, minmax(280px, 1fr))',
-  gap: '1.75rem',
+  gridTemplateColumns: 'repeat(auto-fit, minmax(min(100%, 280px), 1fr))',
+  gap: 'clamp(1.25rem, 3vw, 1.75rem)',
   maxWidth: '1100px',
   margin: '0 auto',
   width: '100%',
@@ -139,12 +139,12 @@ const ProjectsGrid = styled('div')({
 
 const ProjectCard = styled('article')(({ theme }) => ({
   background: theme.palette.background.paper,
-  borderRadius: '18px',
+  borderRadius: 'clamp(12px, 3vw, 18px)',
   border: `1px solid ${theme.palette.divider}`,
-  padding: '1.75rem',
+  padding: 'clamp(1.25rem, 3vw, 1.75rem)',
   display: 'flex',
   flexDirection: 'column',
-  gap: '1rem',
+  gap: 'clamp(0.75rem, 2vw, 1rem)',
   boxShadow: theme.palette.mode === 'dark'
     ? '0 18px 40px rgba(0, 0, 0, 0.3)'
     : '0 18px 40px rgba(30, 58, 138, 0.08)',
@@ -166,7 +166,7 @@ const ProjectHeader = styled('div')({
 })
 
 const ProjectName = styled('h2')(({ theme }) => ({
-  fontSize: '1.25rem',
+  fontSize: 'clamp(1.1rem, 3vw, 1.25rem)',
   fontWeight: 700,
   margin: 0,
   color: theme.palette.text.primary,

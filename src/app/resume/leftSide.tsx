@@ -5,8 +5,12 @@ import LinkedInIcon from '@mui/icons-material/LinkedIn'
 
 const Sidebar = styled('div')({
   width: '35%',
-  padding: '0.5rem 0.85rem 1.5rem',
+  padding: 'clamp(0.5rem, 2vw, 0.75rem) clamp(0.75rem, 2vw, 0.85rem) clamp(1rem, 3vw, 1.5rem)',
   overflowY: 'auto',
+
+  '@media (max-width: 960px)': {
+    width: '100%',
+  },
 })
 
 const SectionCard = styled('div')(({ theme }) => ({

@@ -1,0 +1,80 @@
+1:"$Sreact.fragment"
+2:I[88187,["/_next/static/chunks/945b077709d3d96f.js","/_next/static/chunks/b1a9e824a7e2be78.js","/_next/static/chunks/3202a56113011fa8.js"],"default"]
+3:I[12384,["/_next/static/chunks/945b077709d3d96f.js","/_next/static/chunks/b1a9e824a7e2be78.js","/_next/static/chunks/3202a56113011fa8.js"],"default"]
+4:I[77729,["/_next/static/chunks/945b077709d3d96f.js","/_next/static/chunks/b1a9e824a7e2be78.js","/_next/static/chunks/3202a56113011fa8.js"],"default"]
+5:I[30270,["/_next/static/chunks/945b077709d3d96f.js","/_next/static/chunks/b1a9e824a7e2be78.js","/_next/static/chunks/3202a56113011fa8.js"],"default"]
+6:I[70691,["/_next/static/chunks/5da1b868cf5e5f50.js","/_next/static/chunks/37beba5db72cfcb5.js"],"default"]
+7:I[97554,["/_next/static/chunks/945b077709d3d96f.js","/_next/static/chunks/b1a9e824a7e2be78.js","/_next/static/chunks/3202a56113011fa8.js","/_next/static/chunks/4c00b678c1b22ecc.js"],"default"]
+8:I[67320,["/_next/static/chunks/5da1b868cf5e5f50.js","/_next/static/chunks/37beba5db72cfcb5.js"],"default"]
+9:I[66980,["/_next/static/chunks/945b077709d3d96f.js","/_next/static/chunks/b1a9e824a7e2be78.js","/_next/static/chunks/3202a56113011fa8.js"],"default"]
+a:I[26591,["/_next/static/chunks/945b077709d3d96f.js","/_next/static/chunks/b1a9e824a7e2be78.js","/_next/static/chunks/3202a56113011fa8.js","/_next/static/chunks/72a61afd84598408.js"],"default"]
+b:I[27382,["/_next/static/chunks/945b077709d3d96f.js","/_next/static/chunks/b1a9e824a7e2be78.js","/_next/static/chunks/3202a56113011fa8.js","/_next/static/chunks/33809d7e6a68c2ae.js"],"default"]
+d:I[89929,["/_next/static/chunks/5da1b868cf5e5f50.js","/_next/static/chunks/37beba5db72cfcb5.js"],"OutletBoundary"]
+e:"$Sreact.suspense"
+10:I[89929,["/_next/static/chunks/5da1b868cf5e5f50.js","/_next/static/chunks/37beba5db72cfcb5.js"],"ViewportBoundary"]
+12:I[89929,["/_next/static/chunks/5da1b868cf5e5f50.js","/_next/static/chunks/37beba5db72cfcb5.js"],"MetadataBoundary"]
+14:I[27049,[],"default"]
+:HL["/_next/static/chunks/cfe20472333721eb.css","style"]
+0:{"P":null,"b":"wAKe0KrCVN0Dbo_tYx_WQ","c":["","posts","2024-06-18-security-best-practices",""],"q":"","i":false,"f":[[["",{"children":["posts",{"children":[["slug","2024-06-18-security-best-practices","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/cfe20472333721eb.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/945b077709d3d96f.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/b1a9e824a7e2be78.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/_next/static/chunks/3202a56113011fa8.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","$L4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{"parallelRouterKey":"children","error":"$7","errorStyles":[],"errorScripts":[["$","script","script-0",{"src":"/_next/static/chunks/4c00b678c1b22ecc.js","async":true}]],"template":["$","$L8",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","$L9",null,{}]]}]]}]}]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L6",null,{"parallelRouterKey":"children","error":"$a","errorStyles":[],"errorScripts":[["$","script","script-0",{"src":"/_next/static/chunks/72a61afd84598408.js","async":true}]],"template":["$","$L8",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L6",null,{"parallelRouterKey":"children","error":"$b","errorStyles":[],"errorScripts":[["$","script","script-0",{"src":"/_next/static/chunks/33809d7e6a68c2ae.js","async":true}]],"template":["$","$L8",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$Lc",[["$","script","script-0",{"src":"/_next/static/chunks/c8d5c41d1d5e5910.js","async":true,"nonce":"$undefined"}]],["$","$Ld",null,{"children":["$","$e",null,{"name":"Next.MetadataOutlet","children":"$@f"}]}]]}],{},null,false,false]},null,false,false]},null,false,false]},null,false,false],["$","$1","h",{"children":[null,["$","$L10",null,{"children":"$@11"}],["$","div",null,{"hidden":true,"children":["$","$L12",null,{"children":["$","$e",null,{"name":"Next.Metadata","children":"$@13"}]}]}],null]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:I[73428,["/_next/static/chunks/945b077709d3d96f.js","/_next/static/chunks/b1a9e824a7e2be78.js","/_next/static/chunks/3202a56113011fa8.js","/_next/static/chunks/c8d5c41d1d5e5910.js"],"default"]
+16:T1eee,<h1>Security Best Practices: Protecting Your Applications</h1>
+<p>Security isn't a feature—it's a requirement. Every application must defend against common attacks.</p>
+<p>Start with a risk assessment that maps critical assets, trusted boundaries, and threat actors. Without an explicit understanding of what you are protecting, teams tend to over-engineer low-value areas and under-invest in paths that lead directly to sensitive data. Use these insights to guide your security backlog and to justify budget for tooling and training.</p>
+<h2>Password Hashing and Credential Management</h2>
+<p>Never store passwords in plaintext. Use battle-tested hashing algorithms like bcrypt, scrypt, or Argon2 that include built-in salting and configurable work factors. As hardware improves, increase the cost parameter to maintain resistance against brute-force attacks.</p>
+<pre><code class="language-javascript">import bcrypt from 'bcrypt';
+
+async function hashPassword(password) {
+  const salt = await bcrypt.genSalt(10);
+  return bcrypt.hash(password, salt);
+}
+
+async function verifyPassword(password, hash) {
+  return bcrypt.compare(password, hash);
+}
+</code></pre>
+<p>Implement additional safeguards: enforce minimum password complexity, rate-limit authentication attempts, and support multi-factor authentication (MFA) for sensitive operations. Consider passwordless flows using magic links or WebAuthn when feasible—they eliminate the weakest link in credential security.</p>
+<p>Credential rotation applies beyond user passwords. API keys, database credentials, and service account tokens should rotate automatically on a schedule and immediately upon suspected compromise. Use secrets managers like HashiCorp Vault, AWS Secrets Manager, or Azure Key Vault to centralize storage and audit access.</p>
+<h2>SQL Injection Prevention and Input Validation</h2>
+<p>SQL injection remains one of the most common and devastating vulnerabilities. Attackers craft malicious input that breaks out of query context and executes arbitrary commands. The solution is simple: never concatenate user input into queries.</p>
+<pre><code class="language-javascript">// Bad: Vulnerable to injection
+const query = `SELECT * FROM users WHERE email = '${email}'`;
+
+// Good: Parameterized queries
+const result = await db.query(
+  'SELECT * FROM users WHERE email = $1',
+  [email]
+);
+</code></pre>
+<p>Beyond parameterization, validate and sanitize all inputs. Use allowlists for expected values, enforce type checking, and reject inputs that contain suspicious characters or patterns. ORM frameworks like Prisma, TypeORM, or Sequelize provide additional protection by abstracting raw SQL, but they don't eliminate the need for validation—especially when constructing dynamic queries.</p>
+<p>Apply the same rigor to other injection vectors: command injection when invoking shell commands, LDAP injection in directory queries, and XPath injection in XML processing. Defense in depth means assuming every boundary can be exploited and adding multiple layers of protection.</p>
+<p>Monitor for injection attempts by logging blocked queries and alerting on unusual patterns. Attackers often probe for weaknesses before launching serious attacks, so early detection can trigger lockdowns or IP bans before damage occurs.</p>
+<h2>CSRF Protection and Session Security</h2>
+<p>Cross-Site Request Forgery (CSRF) attacks trick authenticated users into executing unwanted actions. An attacker embeds malicious requests in links or forms, leveraging the victim's session cookies to perform unauthorized operations.</p>
+<pre><code class="language-javascript">const csrf = require('csurf');
+app.use(csrf());
+
+app.post('/action', (req, res) => {
+  // CSRF token automatically verified
+  res.json({ message: 'Action completed' });
+});
+</code></pre>
+<p>CSRF tokens validate that requests originate from your application. Generate unique tokens per session, embed them in forms and AJAX headers, and reject requests that lack valid tokens. Modern frameworks like Next.js, Django, and Rails include CSRF protection by default—ensure it's enabled and configured correctly.</p>
+<p>Session management extends beyond CSRF. Use secure, HTTP-only cookies to prevent JavaScript access, set strict same-site policies, and rotate session IDs after authentication to prevent fixation attacks. Implement absolute and idle timeouts so abandoned sessions don't remain valid indefinitely. For sensitive applications, require re-authentication before high-value operations like changing passwords or transferring funds.</p>
+<p>Consider adopting SameSite=Strict or SameSite=Lax cookie policies to limit cross-origin request exposure. Combined with Content Security Policy (CSP) headers that restrict script sources, these measures dramatically reduce the attack surface for session hijacking and XSS-based exploits.</p>
+<p>Security requires constant vigilance: keep dependencies updated, validate all input, use HTTPS everywhere, implement proper authentication and authorization, and review configurations regularly for drift from security baselines.</p>
+<h2>Threat Modeling and Secure Design</h2>
+<p>Integrate threat modeling into early planning sessions. A lightweight STRIDE checklist—spoofing, tampering, repudiation, information disclosure, denial of service, elevation of privilege—can highlight weak spots in architecture diagrams. Document decisions and mitigations so that future contributors understand why specific controls exist.</p>
+<p>Design systems with the principle of least privilege. Rotate credentials automatically, isolate workloads with network segmentation, and prefer managed identity solutions to long-lived static secrets. Attackers look for the easiest door; making lateral movement difficult is often enough to push them elsewhere.</p>
+<h2>Monitoring, Response, and Continuous Improvement</h2>
+<p>Security posture is determined by how quickly you detect and respond to incidents. Feed application logs into a managed SIEM, define alerts for anomalous behavior, and conduct tabletop exercises that walk through containment and communication. After an incident, perform a blameless retrospective that produces actionable follow-up stories.</p>
+<p>Close the loop with automation. Use dependency scanners, container image signing, and CI pipelines that block merges when high-severity vulnerabilities appear. Security is never “done,” but a disciplined feedback loop keeps the backlog manageable and your applications trustworthy.</p>
+<h2>Secure SDLC and Governance</h2>
+<p>Establish a secure software development lifecycle (SSDLC) that outlines security checkpoints from ideation to sunset. Incorporate security requirements into user stories, run design reviews for high-risk features, and require security sign-off during release planning. Governance boards should include engineering, product, and legal representatives so decisions weigh customer impact alongside compliance and brand risk.</p>
+<p>Track maturity with frameworks like OWASP SAMM or NIST SSDF. Use quarterly assessments to identify gaps—maybe you need better code scanning coverage or more frequent penetration tests—and prioritize improvements in your roadmap. Transparency with leadership builds trust and ensures security initiatives receive appropriate funding.</p>
+<h2>Case Study: Secrets Management Uplift</h2>
+<p>One client storing API keys in environment variables embarked on a secrets modernization effort. We introduced a centralized vault, rotated credentials automatically, and instrumented the deployment pipeline to reject applications with embedded secrets. Incidents involving credential leaks dropped to zero over six months, while onboarding time for new services fell by 40% because teams no longer provisioned secrets manually. Documenting the journey provided a playbook the organization could reuse across subsidiaries.</p>c:["$","$L15",null,{"title":"Security Best Practices: Protecting Your Applications","date":"2024-06-18","author":"Mevlut Mert CIL","category":"Security","tags":["security","passwords","encryption","vulnerabilities"],"htmlContent":"$16"}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, maximum-scale=5"}]]
+17:I[76819,["/_next/static/chunks/5da1b868cf5e5f50.js","/_next/static/chunks/37beba5db72cfcb5.js"],"IconMark"]
+13:[["$","title","0",{"children":"Mevlut Mert CIL | Full Stack Developer"}],["$","meta","1",{"name":"description","content":"Portfolio of a full-stack developer"}],["$","link","2",{"rel":"icon","href":"/favicon.ico?favicon.0b3bf435.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L17","3",{}]]
+f:null

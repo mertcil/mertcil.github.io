@@ -6,10 +6,12 @@ import RightSide from './rightSide'
 
 const Container = styled('div')({
   display: 'flex',
-  // minHeight: '100vh',
-  // paddingTop: 0,
-  // background: '#ffffff',
+  flexDirection: 'row',
   fontFamily: '-apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", sans-serif',
+
+  '@media (max-width: 960px)': {
+    flexDirection: 'column',
+  },
 })
 
 export default function Resume() {

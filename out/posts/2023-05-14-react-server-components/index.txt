@@ -1,0 +1,72 @@
+1:"$Sreact.fragment"
+2:I[88187,["/_next/static/chunks/945b077709d3d96f.js","/_next/static/chunks/b1a9e824a7e2be78.js","/_next/static/chunks/3202a56113011fa8.js"],"default"]
+3:I[12384,["/_next/static/chunks/945b077709d3d96f.js","/_next/static/chunks/b1a9e824a7e2be78.js","/_next/static/chunks/3202a56113011fa8.js"],"default"]
+4:I[77729,["/_next/static/chunks/945b077709d3d96f.js","/_next/static/chunks/b1a9e824a7e2be78.js","/_next/static/chunks/3202a56113011fa8.js"],"default"]
+5:I[30270,["/_next/static/chunks/945b077709d3d96f.js","/_next/static/chunks/b1a9e824a7e2be78.js","/_next/static/chunks/3202a56113011fa8.js"],"default"]
+6:I[70691,["/_next/static/chunks/5da1b868cf5e5f50.js","/_next/static/chunks/37beba5db72cfcb5.js"],"default"]
+7:I[97554,["/_next/static/chunks/945b077709d3d96f.js","/_next/static/chunks/b1a9e824a7e2be78.js","/_next/static/chunks/3202a56113011fa8.js","/_next/static/chunks/4c00b678c1b22ecc.js"],"default"]
+8:I[67320,["/_next/static/chunks/5da1b868cf5e5f50.js","/_next/static/chunks/37beba5db72cfcb5.js"],"default"]
+9:I[66980,["/_next/static/chunks/945b077709d3d96f.js","/_next/static/chunks/b1a9e824a7e2be78.js","/_next/static/chunks/3202a56113011fa8.js"],"default"]
+a:I[26591,["/_next/static/chunks/945b077709d3d96f.js","/_next/static/chunks/b1a9e824a7e2be78.js","/_next/static/chunks/3202a56113011fa8.js","/_next/static/chunks/72a61afd84598408.js"],"default"]
+b:I[27382,["/_next/static/chunks/945b077709d3d96f.js","/_next/static/chunks/b1a9e824a7e2be78.js","/_next/static/chunks/3202a56113011fa8.js","/_next/static/chunks/33809d7e6a68c2ae.js"],"default"]
+d:I[89929,["/_next/static/chunks/5da1b868cf5e5f50.js","/_next/static/chunks/37beba5db72cfcb5.js"],"OutletBoundary"]
+e:"$Sreact.suspense"
+10:I[89929,["/_next/static/chunks/5da1b868cf5e5f50.js","/_next/static/chunks/37beba5db72cfcb5.js"],"ViewportBoundary"]
+12:I[89929,["/_next/static/chunks/5da1b868cf5e5f50.js","/_next/static/chunks/37beba5db72cfcb5.js"],"MetadataBoundary"]
+14:I[27049,[],"default"]
+:HL["/_next/static/chunks/cfe20472333721eb.css","style"]
+0:{"P":null,"b":"wAKe0KrCVN0Dbo_tYx_WQ","c":["","posts","2023-05-14-react-server-components",""],"q":"","i":false,"f":[[["",{"children":["posts",{"children":[["slug","2023-05-14-react-server-components","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/cfe20472333721eb.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/945b077709d3d96f.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/b1a9e824a7e2be78.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/_next/static/chunks/3202a56113011fa8.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","$L4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{"parallelRouterKey":"children","error":"$7","errorStyles":[],"errorScripts":[["$","script","script-0",{"src":"/_next/static/chunks/4c00b678c1b22ecc.js","async":true}]],"template":["$","$L8",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","$L9",null,{}]]}]]}]}]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L6",null,{"parallelRouterKey":"children","error":"$a","errorStyles":[],"errorScripts":[["$","script","script-0",{"src":"/_next/static/chunks/72a61afd84598408.js","async":true}]],"template":["$","$L8",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L6",null,{"parallelRouterKey":"children","error":"$b","errorStyles":[],"errorScripts":[["$","script","script-0",{"src":"/_next/static/chunks/33809d7e6a68c2ae.js","async":true}]],"template":["$","$L8",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$Lc",[["$","script","script-0",{"src":"/_next/static/chunks/c8d5c41d1d5e5910.js","async":true,"nonce":"$undefined"}]],["$","$Ld",null,{"children":["$","$e",null,{"name":"Next.MetadataOutlet","children":"$@f"}]}]]}],{},null,false,false]},null,false,false]},null,false,false]},null,false,false],["$","$1","h",{"children":[null,["$","$L10",null,{"children":"$@11"}],["$","div",null,{"hidden":true,"children":["$","$L12",null,{"children":["$","$e",null,{"name":"Next.Metadata","children":"$@13"}]}]}],null]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+15:I[73428,["/_next/static/chunks/945b077709d3d96f.js","/_next/static/chunks/b1a9e824a7e2be78.js","/_next/static/chunks/3202a56113011fa8.js","/_next/static/chunks/c8d5c41d1d5e5910.js"],"default"]
+16:Tea2,<h1>React Server Components: The Future of Full-Stack React</h1>
+<p>React Server Components (RSC) represent a paradigm shift. They run only on the server and never send component code to the browser.</p>
+<p>Because the server owns data fetching, you can hydrate only the pieces that require interactivity. This leads to smaller client bundles, fewer stale caches, and less duplicated business logic between API routes and UI components. Teams adopting RSC report a clearer separation of responsibilities: the server composes data and markup, while client components focus strictly on user interactions.</p>
+<h2>Server Component Example</h2>
+<pre><code class="language-javascript">// app/posts/page.tsx (Server Component)
+import { Post } from '@/components/post';
+import { db } from '@/lib/db';
+
+export default async function PostsPage() {
+  const posts = await db.post.findMany({
+    orderBy: { createdAt: 'desc' }
+  });
+
+  return (
+    &#x3C;div className="posts-container">
+      {posts.map(post => (
+        &#x3C;Post key={post.id} post={post} />
+      ))}
+    &#x3C;/div>
+  );
+}
+</code></pre>
+<h2>Client Component Interactivity</h2>
+<pre><code class="language-javascript">// components/post-actions.tsx
+'use client';
+
+import { useState } from 'react';
+
+export function PostActions({ postId }) {
+  const [liked, setLiked] = useState(false);
+
+  return (
+    &#x3C;button onClick={() => setLiked(!liked)}>
+      {liked ? '❤️' : '🤍'} Like
+    &#x3C;/button>
+  );
+}
+</code></pre>
+<p>RSC eliminate waterfall requests, reduce bundle size, and enable secure database access from components.</p>
+<h2>Streaming and Suspense Patterns</h2>
+<p>RSC pair naturally with Suspense streaming. You can render the shell of a page instantly, stream server-rendered segments as they resolve, and hydrate client components only where necessary. This approach shortens time-to-first-byte while still delivering progressively enhanced experiences. Combine Suspense boundaries with skeleton loaders for a polished perception of speed.</p>
+<h2>Developer Experience and Migration Considerations</h2>
+<p>Moving existing apps to RSC requires discipline. Audit where state lives, identify modules that rely on browser-only APIs, and convert those into client components with the <code>'use client'</code> directive. Lean on TypeScript to ensure client imports never leak into server modules. Finally, set up benchmarks that track bundle size, data-fetching latency, and cache hit rate so you can quantify the impact of the migration.</p>
+<h2>Tooling and Team Collaboration</h2>
+<p>Adopting RSC affects designers, API engineers, and DevOps alike. Designers need to understand streaming behavior to craft skeleton states. Backend teams contribute fetchers that encapsulate data access and caching policy. DevOps teams update pipelines to pre-render pages efficiently and manage edge deployments.</p>
+<p>Create shared documentation that maps components to their data dependencies. Run pairing sessions so frontend and backend engineers align on data contracts. With clear ownership and communication, RSC becomes a bridge between disciplines rather than a source of confusion.</p>
+<h2>Testing and Observability</h2>
+<p>Testing strategies evolve with RSC. Unit tests still verify server logic, but integration tests must account for streamed HTML and selective hydration. Use Playwright or Cypress to verify progressive rendering, and instrument performance metrics to ensure time-to-first-byte improves after migration.</p>
+<p>Observability should track server component render times, cache hits, and hydration errors. Logging frameworks can record component-level telemetry, helping teams spot slow queries or bloated responses early.</p>c:["$","$L15",null,{"title":"React Server Components: The Future of Full-Stack React","date":"2023-05-14","author":"Mevlut Mert CIL","category":"Frontend Framework","tags":["react","server-components","nextjs","architecture"],"htmlContent":"$16"}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, maximum-scale=5"}]]
+17:I[76819,["/_next/static/chunks/5da1b868cf5e5f50.js","/_next/static/chunks/37beba5db72cfcb5.js"],"IconMark"]
+13:[["$","title","0",{"children":"Mevlut Mert CIL | Full Stack Developer"}],["$","meta","1",{"name":"description","content":"Portfolio of a full-stack developer"}],["$","link","2",{"rel":"icon","href":"/favicon.ico?favicon.0b3bf435.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L17","3",{}]]
+f:null

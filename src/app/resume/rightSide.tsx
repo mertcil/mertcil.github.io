@@ -190,12 +190,16 @@ const REFERENCES: Reference[] = [
 
 const MainContent = styled('div')({
   width: '65%',
-  padding: '0.75rem 1.6rem 2.5rem',
+  padding: 'clamp(0.75rem, 2vw, 1rem) clamp(1rem, 3vw, 1.6rem) clamp(1.5rem, 4vw, 2.5rem)',
   boxSizing: 'border-box',
   overflowY: 'auto',
   display: 'flex',
   flexDirection: 'column',
-  gap: '1.6rem',
+  gap: 'clamp(1rem, 3vw, 1.6rem)',
+
+  '@media (max-width: 960px)': {
+    width: '100%',
+  },
 })
 
 const SectionCard = styled('div')(({ theme }) => ({

@@ -13,10 +13,23 @@ const OuterContainer = styled('div')({
 })
 
 const CenteredContent = styled('div')({
-  width: '80%',
+  width: 'clamp(90%, 90vw, 1400px)',
+  maxWidth: '1400px',
   display: 'flex',
   flexDirection: 'column',
   alignItems: 'center',
+  padding: '0 1rem',
+  boxSizing: 'border-box',
+
+  '@media (min-width: 768px)': {
+    width: 'clamp(85%, 85vw, 1400px)',
+    padding: '0 1.5rem',
+  },
+
+  '@media (min-width: 1024px)': {
+    width: '80%',
+    padding: '0 2rem',
+  },
 })
 
 const MainContent = styled('div')({
@@ -30,7 +43,7 @@ const MainContent = styled('div')({
 const Panel = styled('div')(({ theme }) => ({
   position: 'relative',
   borderRadius: '16px',
-  padding: '2rem',
+  padding: '1.25rem',
   background: theme.palette.mode === 'dark' ? '#424242' : '#ffffff', // dark gray in dark mode
   border: theme.palette.mode === 'dark' ? '1px solid rgba(255,255,255,0.12)' : '1px solid #e0e0e0',
   boxShadow:
@@ -41,6 +54,16 @@ const Panel = styled('div')(({ theme }) => ({
   color: theme.palette.text.primary,
   width: '100%',
   fontFamily: theme.typography.fontFamily,
+  boxSizing: 'border-box',
+
+  '@media (min-width: 768px)': {
+    padding: '1.75rem',
+    borderRadius: '16px',
+  },
+
+  '@media (min-width: 1024px)': {
+    padding: '2rem',
+  },
 }))
 
 const HeaderPanel = styled('div')({

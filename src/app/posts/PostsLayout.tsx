@@ -36,9 +36,9 @@ const PostCard = styled(Link)(({ theme }) => ({
   display: 'flex',
   flexDirection: 'column',
   gap: '0.75rem',
-  padding: '1.75rem',
+  padding: 'clamp(1.25rem, 3vw, 1.75rem)',
   background: theme.palette.mode === 'dark' ? theme.palette.background.default : theme.palette.background.paper,
-  borderRadius: '16px',
+  borderRadius: 'clamp(12px, 3vw, 16px)',
   border: `1px solid ${theme.palette.divider}`,
   textDecoration: 'none',
   color: theme.palette.mode === 'dark' ? theme.palette.text.primary : '#0f172a',
@@ -75,7 +75,7 @@ const CategoryBadge = styled('span')(({ theme }) => ({
 }))
 
 const PostTitle = styled('h3')(({ theme }) => ({
-  fontSize: '1.35rem',
+  fontSize: 'clamp(1.15rem, 3.5vw, 1.35rem)',
   fontWeight: 700,
   margin: 0,
   color: theme.palette.mode === 'dark' ? theme.palette.text.primary : '#0f172a',

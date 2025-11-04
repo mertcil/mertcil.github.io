@@ -3,10 +3,11 @@
 import Link from 'next/link'
 import { usePathname } from 'next/navigation'
 import { styled } from '@mui/material/styles'
+import { useState } from 'react'
 
 const Nav = styled('nav')(({ theme }) => ({
   width: '100%',
-  borderRadius: '20px',
+  borderRadius: '12px',
   position: 'sticky',
   top: 0,
   zIndex: 50,
@@ -14,17 +15,18 @@ const Nav = styled('nav')(({ theme }) => ({
     ? theme.palette.background.paper // dark mode
     : theme.palette.grey[100], // light gray in light mode
   fontFamily: theme.typography.fontFamily,
-  padding: '1.5rem 3rem',
+  padding: '1rem 1.25rem',
   boxShadow: theme.palette.mode === 'dark'
     ? '0 10px 30px rgba(0, 0, 0, 0.4)'
     : '0 10px 30px rgba(30, 58, 138, 0.28)',
   display: 'flex',
   alignItems: 'center',
   justifyContent: 'space-between',
-  gap: '1.75rem',
+  gap: '1rem',
   margin: 0,
   boxSizing: 'border-box',
   transition: 'transform 0.25s ease, box-shadow 0.25s ease, background 0.3s ease',
+  flexWrap: 'wrap',
 
   '&:hover': {
     transform: 'translateY(-1px)',
@@ -32,32 +34,79 @@ const Nav = styled('nav')(({ theme }) => ({
       ? '0 16px 36px rgba(0, 0, 0, 0.5)'
       : '0 16px 36px rgba(30, 58, 138, 0.3)',
   },
+
+  '@media (min-width: 768px)': {
+    padding: '1.25rem 2rem',
+    borderRadius: '16px',
+    gap: '1.5rem',
+    flexWrap: 'nowrap',
+  },
+
+  '@media (min-width: 1024px)': {
+    padding: '1.5rem 3rem',
+    borderRadius: '20px',
+    gap: '1.75rem',
+  },
 }))
 
 const BrandLink = styled(Link)(({ theme }) => ({
-  fontSize: '1.3rem',
+  fontSize: '1.1rem',
   fontWeight: 700,
   color: theme.palette.mode === 'dark' ? theme.palette.text.primary : theme.palette.text.primary,
   textDecoration: 'none',
   letterSpacing: '-0.6px',
   transition: 'color 0.25s ease',
+  whiteSpace: 'nowrap',
 
   '&:hover': {
     color: theme.palette.primary.light,
   },
+
+  '@media (min-width: 768px)': {
+    fontSize: '1.2rem',
+  },
+
+  '@media (min-width: 1024px)': {
+    fontSize: '1.3rem',
+  },
 }))
 
-const NavList = styled('ul')({
+const NavList = styled('ul', {
+  shouldForwardProp: (prop) => prop !== 'isOpen',
+})<{ isOpen?: boolean }>(({ theme, isOpen }) => ({
   marginLeft: 'auto',
   marginTop: 0,
   marginBottom: 0,
   marginRight: 0,
-  display: 'flex',
+  display: isOpen ? 'flex' : 'none',
+  flexDirection: 'column',
   gap: '0.75rem',
   alignItems: 'center',
   listStyle: 'none',
-  padding: 0,
-})
+  padding: '1rem 0',
+  position: 'absolute',
+  top: '100%',
+  left: 0,
+  right: 0,
+  background: theme.palette.mode === 'dark'
+    ? theme.palette.background.paper
+    : theme.palette.grey[100],
+  borderRadius: '0 0 12px 12px',
+  boxShadow: theme.palette.mode === 'dark'
+    ? '0 10px 30px rgba(0, 0, 0, 0.4)'
+    : '0 10px 30px rgba(30, 58, 138, 0.28)',
+  zIndex: 40,
+
+  '@media (min-width: 768px)': {
+    display: 'flex',
+    flexDirection: 'row',
+    position: 'static',
+    padding: 0,
+    background: 'transparent',
+    boxShadow: 'none',
+    borderRadius: 0,
+  },
+}))
 
 const NavItem = styled('li')({
   margin: 0,
@@ -108,17 +157,21 @@ const NavLinkButton = styled(Link, {
 
 const IconGroup = styled('div')({
   display: 'flex',
-  gap: '0.75rem',
+  gap: '0.5rem',
   alignItems: 'center',
+
+  '@media (min-width: 768px)': {
+    gap: '0.75rem',
+  },
 })
 
 const IconButton = styled('a')(({ theme }) => ({
   display: 'flex',
   alignItems: 'center',
   justifyContent: 'center',
-  width: '40px',
-  height: '40px',
-  borderRadius: '12px',
+  width: '36px',
+  height: '36px',
+  borderRadius: '10px',
   background: theme.palette.mode === 'dark'
     ? 'rgba(148, 163, 184, 0.15)'
     : 'rgba(226, 232, 240, 0.18)',
@@ -138,13 +191,66 @@ const IconButton = styled('a')(({ theme }) => ({
   },
 
   '& svg': {
-    width: '20px',
-    height: '20px',
+    width: '18px',
+    height: '18px',
+  },
+
+  '@media (min-width: 768px)': {
+    width: '40px',
+    height: '40px',
+    borderRadius: '12px',
+
+    '& svg': {
+      width: '20px',
+      height: '20px',
+    },
   },
 }))
 
+const HamburgerButton = styled('button')(({ theme }) => ({
+  display: 'flex',
+  flexDirection: 'column',
+  justifyContent: 'space-around',
+  width: '36px',
+  height: '36px',
+  background: 'transparent',
+  border: 'none',
+  cursor: 'pointer',
+  padding: '8px',
+  zIndex: 51,
+  boxSizing: 'border-box',
+
+  '& div': {
+    width: '20px',
+    height: '2px',
+    background: theme.palette.mode === 'dark' ? theme.palette.text.primary : theme.palette.text.primary,
+    borderRadius: '2px',
+    transition: 'all 0.3s linear',
+    position: 'relative',
+    transformOrigin: '1px',
+  },
+
+  '@media (min-width: 768px)': {
+    display: 'none',
+  },
+}))
+
+const NavWrapper = styled('div')({
+  position: 'relative',
+  display: 'flex',
+  alignItems: 'center',
+  marginLeft: 'auto',
+
+  '@media (max-width: 767px)': {
+    width: '100%',
+    order: 3,
+    justifyContent: 'flex-end',
+  },
+})
+
 export default function Header() {
   const pathname = usePathname()
+  const [isMenuOpen, setIsMenuOpen] = useState(false)
 
   const brand = { name: 'Mevlut Mert CIL', href: '/' }
   const navLinks = [
@@ -154,6 +260,10 @@ export default function Header() {
     { name: 'documents', href: '/documents' },
     { name: 'contact', href: '/contact' },
   ]
+
+  const toggleMenu = () => {
+    setIsMenuOpen(!isMenuOpen)
+  }
 
   return (
     <Nav>
@@ -175,15 +285,27 @@ export default function Header() {
         </IconButton>
       </IconGroup>
 
-      <NavList>
-        {navLinks.map(item => (
-          <NavItem key={item.href}>
-            <NavLinkButton href={item.href} isActive={pathname === item.href}>
-              {item.name}
-            </NavLinkButton>
-          </NavItem>
-        ))}
-      </NavList>
+      <NavWrapper>
+        <HamburgerButton onClick={toggleMenu} aria-label="Toggle menu">
+          <div />
+          <div />
+          <div />
+        </HamburgerButton>
+
+        <NavList isOpen={isMenuOpen}>
+          {navLinks.map(item => (
+            <NavItem key={item.href}>
+              <NavLinkButton
+                href={item.href}
+                isActive={pathname === item.href}
+                onClick={() => setIsMenuOpen(false)}
+              >
+                {item.name}
+              </NavLinkButton>
+            </NavItem>
+          ))}
+        </NavList>
+      </NavWrapper>
     </Nav>
   )
 }
