@@ -1,5 +1,5 @@
 1:"$Sreact.fragment"
-2:I[73428,["/_next/static/chunks/945b077709d3d96f.js","/_next/static/chunks/b1a9e824a7e2be78.js","/_next/static/chunks/3202a56113011fa8.js","/_next/static/chunks/c8d5c41d1d5e5910.js"],"default"]
+2:I[73428,["/_next/static/chunks/945b077709d3d96f.js","/_next/static/chunks/b1a9e824a7e2be78.js","/_next/static/chunks/b63d951a79835f92.js","/_next/static/chunks/c8d5c41d1d5e5910.js"],"default"]
 6:I[89929,["/_next/static/chunks/5da1b868cf5e5f50.js","/_next/static/chunks/37beba5db72cfcb5.js"],"OutletBoundary"]
 7:"$Sreact.suspense"
 3:Tf98,<h1>TypeScript Adoption: From JavaScript to Strongly Typed Systems</h1>
@@ -77,7 +77,7 @@ type UserKeys = keyof User;
 <h2>Governance and Cross-Team Alignment</h2>
 <p>Large organizations benefit from a TypeScript working group that maintains style guides, linting rules, and recommended library patterns. Publish reusable types for shared APIs, define how to handle breaking changes, and curate sample projects that illustrate best practices. Governance keeps codebases consistent even as new teams onboard.</p>
 <h2>Measuring Business Impact</h2>
-<p>Tie adoption to business outcomes. Compare incident counts before and after TypeScript, survey developer confidence, and measure onboarding speed for new engineers. Present findings to leadership to secure ongoing investment in tooling, CI resources, and training. When the business sees clear ROI, momentum for TypeScript becomes unstoppable.</p>0:{"buildId":"wAKe0KrCVN0Dbo_tYx_WQ","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"TypeScript Adoption: From JavaScript to Strongly Typed Systems","date":"2020-09-10","author":"Mevlut Mert CIL","category":"Frontend Development","tags":["typescript","javascript","types","tooling"],"htmlContent":"$3"}],["$L4"],"$L5"]}],"loading":null,"isPartial":false}
+<p>Tie adoption to business outcomes. Compare incident counts before and after TypeScript, survey developer confidence, and measure onboarding speed for new engineers. Present findings to leadership to secure ongoing investment in tooling, CI resources, and training. When the business sees clear ROI, momentum for TypeScript becomes unstoppable.</p>0:{"buildId":"yuIDkawP_tovBGxdWnpyw","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"TypeScript Adoption: From JavaScript to Strongly Typed Systems","date":"2020-09-10","author":"Mevlut Mert CIL","category":"Frontend Development","tags":["typescript","javascript","types","tooling"],"htmlContent":"$3"}],["$L4"],"$L5"]}],"loading":null,"isPartial":false}
 4:["$","script","script-0",{"src":"/_next/static/chunks/c8d5c41d1d5e5910.js","async":true}]
 5:["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]
 8:null

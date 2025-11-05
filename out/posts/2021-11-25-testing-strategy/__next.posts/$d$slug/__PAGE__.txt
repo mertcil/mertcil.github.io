@@ -1,5 +1,5 @@
 1:"$Sreact.fragment"
-2:I[73428,["/_next/static/chunks/945b077709d3d96f.js","/_next/static/chunks/b1a9e824a7e2be78.js","/_next/static/chunks/3202a56113011fa8.js","/_next/static/chunks/c8d5c41d1d5e5910.js"],"default"]
+2:I[73428,["/_next/static/chunks/945b077709d3d96f.js","/_next/static/chunks/b1a9e824a7e2be78.js","/_next/static/chunks/b63d951a79835f92.js","/_next/static/chunks/c8d5c41d1d5e5910.js"],"default"]
 6:I[89929,["/_next/static/chunks/5da1b868cf5e5f50.js","/_next/static/chunks/37beba5db72cfcb5.js"],"OutletBoundary"]
 7:"$Sreact.suspense"
 3:T10ae,<h1>Testing Strategy: Unit, Integration, and E2E Tests</h1>
@@ -72,7 +72,7 @@ public class UserServiceIntegrationTest {
 <h2>Chaos and Resilience Testing</h2>
 <p>As distributed systems proliferate, include resilience checks in your test portfolio. Inject latency, kill services, and tamper with message queues in controlled environments. Tools like Chaos Mesh or Gremlin reveal how applications behave when dependencies fail. Document learnings in runbooks and adjust fallbacks based on real-world evidence.</p>
 <h2>Exploratory Testing and UX Quality</h2>
-<p>Automation cannot capture every nuance. Schedule exploratory testing sessions where engineers, designers, and product managers simulate real user journeys. Capture observations in shared documents and translate findings into automated tests where possible. Pair this with accessibility audits to ensure users with assistive technologies receive a polished experience.</p>0:{"buildId":"wAKe0KrCVN0Dbo_tYx_WQ","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"Testing Strategy: Unit, Integration, and E2E Tests","date":"2021-11-25","author":"Mevlut Mert CIL","category":"QA & Testing","tags":["testing","junit","jest","automation"],"htmlContent":"$3"}],["$L4"],"$L5"]}],"loading":null,"isPartial":false}
+<p>Automation cannot capture every nuance. Schedule exploratory testing sessions where engineers, designers, and product managers simulate real user journeys. Capture observations in shared documents and translate findings into automated tests where possible. Pair this with accessibility audits to ensure users with assistive technologies receive a polished experience.</p>0:{"buildId":"yuIDkawP_tovBGxdWnpyw","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"Testing Strategy: Unit, Integration, and E2E Tests","date":"2021-11-25","author":"Mevlut Mert CIL","category":"QA & Testing","tags":["testing","junit","jest","automation"],"htmlContent":"$3"}],["$L4"],"$L5"]}],"loading":null,"isPartial":false}
 4:["$","script","script-0",{"src":"/_next/static/chunks/c8d5c41d1d5e5910.js","async":true}]
 5:["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]
 8:null

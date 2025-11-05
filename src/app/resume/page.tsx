@@ -1,8 +1,26 @@
 'use client'
 
+import dynamic from 'next/dynamic'
 import { styled } from '@mui/material/styles'
-import LeftSide from './leftSide'
-import RightSide from './rightSide'
+
+// Code splitting: Load heavy components only when needed
+const LeftSide = dynamic(() => import('./leftSide'), {
+  loading: () => <LoadingPlaceholder>Loading resume...</LoadingPlaceholder>,
+})
+
+const RightSide = dynamic(() => import('./rightSide'), {
+  loading: () => <LoadingPlaceholder>Loading experience...</LoadingPlaceholder>,
+})
+
+const LoadingPlaceholder = styled('div')({
+  display: 'flex',
+  alignItems: 'center',
+  justifyContent: 'center',
+  minHeight: '200px',
+  color: '#666',
+  fontSize: '1rem',
+  fontStyle: 'italic',
+})
 
 const Container = styled('div')({
   display: 'flex',

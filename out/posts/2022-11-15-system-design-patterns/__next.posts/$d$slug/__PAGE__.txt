@@ -1,5 +1,5 @@
 1:"$Sreact.fragment"
-2:I[73428,["/_next/static/chunks/945b077709d3d96f.js","/_next/static/chunks/b1a9e824a7e2be78.js","/_next/static/chunks/3202a56113011fa8.js","/_next/static/chunks/c8d5c41d1d5e5910.js"],"default"]
+2:I[73428,["/_next/static/chunks/945b077709d3d96f.js","/_next/static/chunks/b1a9e824a7e2be78.js","/_next/static/chunks/b63d951a79835f92.js","/_next/static/chunks/c8d5c41d1d5e5910.js"],"default"]
 6:I[89929,["/_next/static/chunks/5da1b868cf5e5f50.js","/_next/static/chunks/37beba5db72cfcb5.js"],"OutletBoundary"]
 7:"$Sreact.suspense"
 3:Te5d,<h1>System Design Patterns: Building Scalable Architectures</h1>
@@ -65,7 +65,7 @@ Replica 1, Replica 2 (Read-only)
 <p>Finally, capture design decisions in Architecture Decision Records (ADRs). Documenting why you chose a pattern—and what alternatives you rejected—helps future maintainers evolve the system without re-learning old lessons the hard way.</p>
 <h2>Governance and Evolution</h2>
 <p>System design has a lifecycle. Establish lightweight architecture councils that review major changes, maintain shared reference architectures, and steward cross-cutting concerns like authentication and messaging. Encourage teams to submit RFCs for new patterns so knowledge spreads and duplication shrinks.</p>
-<p>Designs must evolve with business demands. Set checkpoints—perhaps every six months—where teams revisit capacity assumptions, failure modes, and compliance obligations. Sunset patterns that no longer serve the organization and archive documentation so future engineers understand the legacy landscape.</p>0:{"buildId":"wAKe0KrCVN0Dbo_tYx_WQ","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"System Design Patterns: Building Scalable Architectures","date":"2022-11-15","author":"Mevlut Mert CIL","category":"Architecture","tags":["system-design","patterns","scalability","architecture"],"htmlContent":"$3"}],["$L4"],"$L5"]}],"loading":null,"isPartial":false}
+<p>Designs must evolve with business demands. Set checkpoints—perhaps every six months—where teams revisit capacity assumptions, failure modes, and compliance obligations. Sunset patterns that no longer serve the organization and archive documentation so future engineers understand the legacy landscape.</p>0:{"buildId":"yuIDkawP_tovBGxdWnpyw","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"System Design Patterns: Building Scalable Architectures","date":"2022-11-15","author":"Mevlut Mert CIL","category":"Architecture","tags":["system-design","patterns","scalability","architecture"],"htmlContent":"$3"}],["$L4"],"$L5"]}],"loading":null,"isPartial":false}
 4:["$","script","script-0",{"src":"/_next/static/chunks/c8d5c41d1d5e5910.js","async":true}]
 5:["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]
 8:null

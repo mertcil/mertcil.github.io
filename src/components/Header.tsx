@@ -62,6 +62,13 @@ const BrandLink = styled(Link)(({ theme }) => ({
     color: theme.palette.primary.light,
   },
 
+  '&:focus-visible': {
+    outline: '2px solid',
+    outlineColor: theme.palette.primary.main,
+    outlineOffset: '4px',
+    borderRadius: '4px',
+  },
+
   '@media (min-width: 768px)': {
     fontSize: '1.2rem',
   },
@@ -153,6 +160,12 @@ const NavLinkButton = styled(Link, {
       ? '0 6px 18px rgba(96, 165, 250, 0.3)'
       : '0 6px 18px rgba(30, 58, 138, 0.2)',
   },
+
+  '&:focus-visible': {
+    outline: '2px solid',
+    outlineColor: theme.palette.primary.main,
+    outlineOffset: '2px',
+  },
 }))
 
 const IconGroup = styled('div')({
@@ -190,6 +203,12 @@ const IconButton = styled('a')(({ theme }) => ({
       : '0 6px 18px rgba(30, 58, 138, 0.22)',
   },
 
+  '&:focus-visible': {
+    outline: '2px solid',
+    outlineColor: theme.palette.primary.main,
+    outlineOffset: '2px',
+  },
+
   '& svg': {
     width: '18px',
     height: '18px',
@@ -219,6 +238,13 @@ const HamburgerButton = styled('button')(({ theme }) => ({
   padding: '8px',
   zIndex: 51,
   boxSizing: 'border-box',
+
+  '&:focus-visible': {
+    outline: '2px solid',
+    outlineColor: theme.palette.primary.main,
+    outlineOffset: '2px',
+    borderRadius: '4px',
+  },
 
   '& div': {
     width: '20px',
@@ -286,13 +312,18 @@ export default function Header() {
       </IconGroup>
 
       <NavWrapper>
-        <HamburgerButton onClick={toggleMenu} aria-label="Toggle menu">
+        <HamburgerButton
+          onClick={toggleMenu}
+          aria-label="Toggle menu"
+          aria-expanded={isMenuOpen}
+          aria-controls="mobile-menu"
+        >
           <div />
           <div />
           <div />
         </HamburgerButton>
 
-        <NavList isOpen={isMenuOpen}>
+        <NavList id="mobile-menu" isOpen={isMenuOpen} aria-hidden={!isMenuOpen}>
           {navLinks.map(item => (
             <NavItem key={item.href}>
               <NavLinkButton

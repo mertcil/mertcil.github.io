@@ -1,5 +1,5 @@
 1:"$Sreact.fragment"
-2:I[73428,["/_next/static/chunks/945b077709d3d96f.js","/_next/static/chunks/b1a9e824a7e2be78.js","/_next/static/chunks/3202a56113011fa8.js","/_next/static/chunks/c8d5c41d1d5e5910.js"],"default"]
+2:I[73428,["/_next/static/chunks/945b077709d3d96f.js","/_next/static/chunks/b1a9e824a7e2be78.js","/_next/static/chunks/b63d951a79835f92.js","/_next/static/chunks/c8d5c41d1d5e5910.js"],"default"]
 6:I[89929,["/_next/static/chunks/5da1b868cf5e5f50.js","/_next/static/chunks/37beba5db72cfcb5.js"],"OutletBoundary"]
 7:"$Sreact.suspense"
 3:Te62,<h1>Next.js and Server-Side Rendering: Building Modern Web Applications</h1>
@@ -42,7 +42,7 @@ export default async function handler(req, res) {
 <h2>Internationalization and Accessibility</h2>
 <p>Next.js simplifies internationalization (i18n) with routing and locale-aware data fetching. Combine it with translation management platforms and fallback messages so localized content remains fresh. Accessibility (a11y) must remain central—use automated checks in CI, run audits with tools like Lighthouse, and involve assistive technology users in usability testing. Inclusive design pays dividends in global reach and regulatory compliance.</p>
 <h2>Collaboration Between Disciplines</h2>
-<p>Successful Next.js programs align product designers, accessibility specialists, performance engineers, and DevOps. Shared Storybook catalogs, design tokens, and component libraries keep implementations consistent. Hold regular design+engineering reviews to vet layout nesting, streaming behavior, and perceived performance. Collaboration turns the <code>app/</code> directory into a playground for experimentation instead of a source of tech debt.</p>0:{"buildId":"wAKe0KrCVN0Dbo_tYx_WQ","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"Next.js and Server-Side Rendering: Building Modern Web Applications","date":"2022-08-22","author":"Mevlut Mert CIL","category":"Frontend Framework","tags":["nextjs","ssr","ssg","performance"],"htmlContent":"$3"}],["$L4"],"$L5"]}],"loading":null,"isPartial":false}
+<p>Successful Next.js programs align product designers, accessibility specialists, performance engineers, and DevOps. Shared Storybook catalogs, design tokens, and component libraries keep implementations consistent. Hold regular design+engineering reviews to vet layout nesting, streaming behavior, and perceived performance. Collaboration turns the <code>app/</code> directory into a playground for experimentation instead of a source of tech debt.</p>0:{"buildId":"yuIDkawP_tovBGxdWnpyw","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"Next.js and Server-Side Rendering: Building Modern Web Applications","date":"2022-08-22","author":"Mevlut Mert CIL","category":"Frontend Framework","tags":["nextjs","ssr","ssg","performance"],"htmlContent":"$3"}],["$L4"],"$L5"]}],"loading":null,"isPartial":false}
 4:["$","script","script-0",{"src":"/_next/static/chunks/c8d5c41d1d5e5910.js","async":true}]
 5:["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]
 8:null

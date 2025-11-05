@@ -1,5 +1,5 @@
 1:"$Sreact.fragment"
-2:I[73428,["/_next/static/chunks/945b077709d3d96f.js","/_next/static/chunks/b1a9e824a7e2be78.js","/_next/static/chunks/3202a56113011fa8.js","/_next/static/chunks/c8d5c41d1d5e5910.js"],"default"]
+2:I[73428,["/_next/static/chunks/945b077709d3d96f.js","/_next/static/chunks/b1a9e824a7e2be78.js","/_next/static/chunks/b63d951a79835f92.js","/_next/static/chunks/c8d5c41d1d5e5910.js"],"default"]
 6:I[89929,["/_next/static/chunks/5da1b868cf5e5f50.js","/_next/static/chunks/37beba5db72cfcb5.js"],"OutletBoundary"]
 7:"$Sreact.suspense"
 3:T23e8,<h1>WebRTC and Real-Time Communication: Building Diyalog Video Platform</h1>
@@ -225,7 +225,7 @@ async function getActiveParticipants(roomId) {
 <h2>Analytics and Product Insights</h2>
 <p>To keep improving call quality, we tracked join success rate, average bitrate, network degradation incidents, and customer satisfaction scores. Dashboards correlated technical metrics with user sentiment, enabling targeted improvements. For example, we noticed higher drop rates on mobile networks, prompting optimizations to adaptive bitrate logic and UI hints that suggested switching to Wi-Fi.</p>
 <h2>Future Directions</h2>
-<p>WebRTC continues to evolve with standardized data channels, end-to-end encryption for multiparty calls, and WebTransport integrations. Staying engaged with community forums and W3C updates ensures your platform keeps pace. Experiment with AI-driven noise suppression or background effects cautiously—evaluate CPU impact and gather user feedback before rolling out widely.</p>0:{"buildId":"wAKe0KrCVN0Dbo_tYx_WQ","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"WebRTC and Real-Time Communication: Building Diyalog Video Platform","date":"2019-01-20","author":"Mevlut Mert CIL","category":"Real-Time Systems","tags":["webrtc","react","node.js","real-time","video"],"htmlContent":"$3"}],["$L4"],"$L5"]}],"loading":null,"isPartial":false}
+<p>WebRTC continues to evolve with standardized data channels, end-to-end encryption for multiparty calls, and WebTransport integrations. Staying engaged with community forums and W3C updates ensures your platform keeps pace. Experiment with AI-driven noise suppression or background effects cautiously—evaluate CPU impact and gather user feedback before rolling out widely.</p>0:{"buildId":"yuIDkawP_tovBGxdWnpyw","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"WebRTC and Real-Time Communication: Building Diyalog Video Platform","date":"2019-01-20","author":"Mevlut Mert CIL","category":"Real-Time Systems","tags":["webrtc","react","node.js","real-time","video"],"htmlContent":"$3"}],["$L4"],"$L5"]}],"loading":null,"isPartial":false}
 4:["$","script","script-0",{"src":"/_next/static/chunks/c8d5c41d1d5e5910.js","async":true}]
 5:["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]
 8:null

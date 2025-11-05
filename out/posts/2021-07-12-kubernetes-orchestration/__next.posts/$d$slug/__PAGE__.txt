@@ -1,5 +1,5 @@
 1:"$Sreact.fragment"
-2:I[73428,["/_next/static/chunks/945b077709d3d96f.js","/_next/static/chunks/b1a9e824a7e2be78.js","/_next/static/chunks/3202a56113011fa8.js","/_next/static/chunks/c8d5c41d1d5e5910.js"],"default"]
+2:I[73428,["/_next/static/chunks/945b077709d3d96f.js","/_next/static/chunks/b1a9e824a7e2be78.js","/_next/static/chunks/b63d951a79835f92.js","/_next/static/chunks/c8d5c41d1d5e5910.js"],"default"]
 6:I[89929,["/_next/static/chunks/5da1b868cf5e5f50.js","/_next/static/chunks/37beba5db72cfcb5.js"],"OutletBoundary"]
 7:"$Sreact.suspense"
 3:Teba,<h1>Kubernetes Orchestration: Managing Container Fleets</h1>
@@ -57,7 +57,7 @@ spec:
 <p>Running Kubernetes sustainably means mastering day-2 operations. Monitor etcd health, node pressure, and control plane latency. Rotate certificates before they expire and rehearse control plane recoveries to minimize downtime. Implement autoscaling policies (HPA, VPA, cluster autoscaler) tuned to workload behavior.</p>
 <p>Visibility into cost is essential. Use tools like Kubecost or OpenCost to attribute spend to namespaces, teams, and applications. Combine cost data with SLO dashboards so teams weigh spend against customer outcomes. Optimizing requests and limits becomes a routine part of retrospectives.</p>
 <h2>Team Enablement and Documentation</h2>
-<p>Kubernetes thrives when developers understand how workloads interact with the platform. Offer training paths, internal workshops, and immersive labs. Maintain documentation that explains how to build Docker images, request secrets, and debug Pods. Empowerment reduces the support burden on platform teams and keeps shadow clusters from emerging.</p>0:{"buildId":"wAKe0KrCVN0Dbo_tYx_WQ","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"Kubernetes Orchestration: Managing Container Fleets","date":"2021-07-12","author":"Mevlut Mert CIL","category":"DevOps","tags":["kubernetes","containers","orchestration","devops"],"htmlContent":"$3"}],["$L4"],"$L5"]}],"loading":null,"isPartial":false}
+<p>Kubernetes thrives when developers understand how workloads interact with the platform. Offer training paths, internal workshops, and immersive labs. Maintain documentation that explains how to build Docker images, request secrets, and debug Pods. Empowerment reduces the support burden on platform teams and keeps shadow clusters from emerging.</p>0:{"buildId":"yuIDkawP_tovBGxdWnpyw","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"Kubernetes Orchestration: Managing Container Fleets","date":"2021-07-12","author":"Mevlut Mert CIL","category":"DevOps","tags":["kubernetes","containers","orchestration","devops"],"htmlContent":"$3"}],["$L4"],"$L5"]}],"loading":null,"isPartial":false}
 4:["$","script","script-0",{"src":"/_next/static/chunks/c8d5c41d1d5e5910.js","async":true}]
 5:["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]
 8:null

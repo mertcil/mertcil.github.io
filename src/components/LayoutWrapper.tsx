@@ -78,12 +78,15 @@ export default function LayoutWrapper({ children }: { children: ReactNode }) {
 
   return (
     <OuterContainer>
+      <a href="#main-content" className="skip-link">
+        Skip to main content
+      </a>
       <CenteredContent>
         <HeaderPanel>
           {header}
         </HeaderPanel>
 
-        <MainContent>
+        <MainContent id="main-content" role="main">
           <Panel>
             {pageContent}
           </Panel>
