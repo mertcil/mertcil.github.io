@@ -7,9 +7,9 @@ const PageContainer = styled('div')({
   width: '100%',
   display: 'flex',
   flexDirection: 'column',
-  gap: '2rem',
+  gap: 'clamp(1.5rem, 3vw, 2rem)',
   minHeight: '60vh',
-  marginBottom: '-2rem', // Reduce bottom margin
+  paddingBottom: 'clamp(1rem, 2vw, 2rem)',
 })
 
 const Header = styled('div')(({ theme }) => ({
